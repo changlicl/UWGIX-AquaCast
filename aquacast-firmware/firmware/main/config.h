@@ -5,7 +5,6 @@
  * This file contains all hardware pin mappings, sensor parameters, and system
  * configuration constants. Modify these values to match your hardware setup.
  * 
- * @author Victoria Yang (Firmware Lead)
  * @date 2025-01-14
  * @version 0.1.0
  */
