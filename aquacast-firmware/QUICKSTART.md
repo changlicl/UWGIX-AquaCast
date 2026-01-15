@@ -177,25 +177,4 @@ Should display detected I2C devices.
    - Read [CONTRIBUTING.md](CONTRIBUTING.md)
    - Check GitHub Issues for tasks
 
-## 🆘 Get Help
 
-**Still stuck?** 
-
-1. Check [GitHub Issues](https://github.com/your-org/aquacast-firmware/issues)
-2. Review [Troubleshooting Guide](docs/troubleshooting.md)
-3. Contact team:
-   - **Firmware**: Victoria Yang
-   - **Hardware**: Joyce Chou, Chang Li
-
-## 📞 Support Channels
-
-- 💬 GitHub Discussions: For questions
-- 🐛 GitHub Issues: For bugs
-- 📧 Email: Contact course instructor for urgent issues
-
----
-
-**Estimated Time to First Boot**: ~15 minutes  
-**Last Updated**: January 14, 2025
-
-🎉 **Welcome to AquaCast!** Happy coding!
