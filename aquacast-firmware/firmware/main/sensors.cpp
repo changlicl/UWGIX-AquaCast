@@ -2,7 +2,6 @@
  * @file sensors.cpp
  * @brief Implementation of sensor interface layer
  * 
- * @author Victoria Yang (Firmware), Joyce Chou (Hardware Integration)
  * @date 2025-01-14
  */
 
