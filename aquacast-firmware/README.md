@@ -178,7 +178,7 @@ pio run -t upload
 ## 🛠️ Development Workflow
 
 ### Team Responsibilities
-- **Victoria Yang**: Firmware architecture, sensor integration, data logging
+- **Victoria Yang**: Firmware architecture, data logging
 - **Joyce Chou**: GPS integration, sensor validation, system testing
 - **Chang Li**: I2C hardware setup, GitHub documentation, hardware diagrams
 - **Shareef Jasim**: Mechanical design, actuation mechanism, waterproofing
@@ -227,14 +227,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 ## 🙏 Acknowledgments
 
 - **Instructors**: TECHIN 540 teaching team
-- **Partners**: UW Friday Harbor Labs, King County Environmental Monitoring
 - **Libraries**: TinyGPS++, Adafruit Sensor Library, Wire.h
 
 ## 📞 Contact
-
-- **Project Lead**: Victoria Yang - [GitHub](https://github.com/victoria-yang)
-- **Hardware Lead**: Joyce Chou & Chang Li
-- **Mechanical Lead**: Shareef Jasim
 - **Course**: TECHIN 540, University of Washington GIX
 
 ---
