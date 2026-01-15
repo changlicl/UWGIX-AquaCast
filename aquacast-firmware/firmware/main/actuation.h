@@ -5,7 +5,6 @@
  * This module handles the triggering of sampling chambers at specific depths.
  * Supports both magnetic actuation and servo-based mechanisms.
  * 
- * @author Victoria Yang (Firmware), Shareef Jasim (Mechanical Design)
  * @date 2025-01-14
  * @version 0.1.0
  */
