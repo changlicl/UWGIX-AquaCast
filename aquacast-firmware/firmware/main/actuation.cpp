@@ -2,7 +2,6 @@
  * @file actuation.cpp
  * @brief Implementation of chamber actuation control
  * 
- * @author Victoria Yang (Firmware), Shareef Jasim (Mechanical)
  * @date 2025-01-14
  */
 
