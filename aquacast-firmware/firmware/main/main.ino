@@ -5,9 +5,6 @@
  * This is the entry point for the AquaCast autonomous water sampling device.
  * It initializes all subsystems and runs the main mission control loop.
  * 
- * @author Victoria Yang (Firmware Lead)
- * @team Shareef Jasim, Joyce Chou, Chang Li, Victoria Yang
- * @course TECHIN 540 AU 2025 - University of Washington GIX
  * @date 2025-01-14
  * @version 0.1.0
  */
@@ -58,7 +55,7 @@ void setup() {
   DEBUG_PRINTLN("╔════════════════════════════════════════╗");
   DEBUG_PRINTLN("║         AquaCast Firmware v0.1.0       ║");
   DEBUG_PRINTLN("║   Autonomous Water Sampling Device     ║");
-  DEBUG_PRINTLN("║        TECHIN 540 AU 2025              ║");
+  DEBUG_PRINTLN("║        TECHIN 540 SP 2026              ║");
   DEBUG_PRINTLN("╚════════════════════════════════════════╝");
   DEBUG_PRINTLN();
   
