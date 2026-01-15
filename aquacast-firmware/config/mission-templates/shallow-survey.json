@@ -1,0 +1,82 @@
+{
+  "mission_id": "AQ_20250114_001",
+  "device_id": "ESP32_DEV_01",
+  "mission_name": "Shallow Survey - Elliott Bay",
+  "operator": "AquaCast Team",
+  "date": "2025-01-14",
+  
+  "sampling_configuration": {
+    "sampling_rate_hz": 1.0,
+    "max_mission_duration_s": 3600,
+    
+    "depth_triggers": [
+      {
+        "chamber_id": 1,
+        "target_depth_m": 0.5,
+        "tolerance_m": 0.05,
+        "stable_count": 3
+      },
+      {
+        "chamber_id": 2,
+        "target_depth_m": 2.0,
+        "tolerance_m": 0.05,
+        "stable_count": 3
+      }
+    ]
+  },
+  
+  "sensor_configuration": {
+    "gps": {
+      "enabled": true,
+      "min_satellites": 4,
+      "max_hdop": 5.0,
+      "timeout_s": 30
+    },
+    "depth": {
+      "enabled": true,
+      "calibration_offset_m": 0.0,
+      "filter_alpha": 0.8
+    },
+    "temperature": {
+      "enabled": true
+    },
+    "turbidity": {
+      "enabled": false,
+      "calibration": {
+        "voltage_offset": 0.0,
+        "scale_factor": 1000.0
+      }
+    },
+    "ph": {
+      "enabled": false,
+      "calibration": {
+        "ph_7_voltage": 1.65,
+        "ph_4_voltage": 2.03,
+        "ph_10_voltage": 1.27
+      }
+    }
+  },
+  
+  "actuation_configuration": {
+    "type": "magnetic",
+    "timeout_ms": 2000,
+    "retry_attempts": 3,
+    "confirmation_required": true
+  },
+  
+  "logging_configuration": {
+    "format": "json",
+    "buffer_size": 512,
+    "flush_interval_s": 10,
+    "export_filename": "mission_AQ_20250114_001.json"
+  },
+  
+  "safety_limits": {
+    "max_depth_m": 5.0,
+    "min_battery_voltage": 3.0,
+    "max_temperature_c": 40.0,
+    "min_temperature_c": -10.0
+  },
+  
+  "notes": "Test mission for Gate 7 demonstration. Shallow water deployment in controlled conditions."
+}

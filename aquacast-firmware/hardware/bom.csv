@@ -1,0 +1,29 @@
+Category,Part Name,Description,Quantity,Unit Price USD,Total USD,Supplier,Part Number,Notes,Owner
+Microcontroller,ESP32-S3 NodeMCU-32S,Dual-core WiFi+BT dev board,1,12.00,12.00,Amazon,B09MFL2NPR,Main microcontroller,Victoria
+Sensors,Bar30 Pressure Sensor,High-resolution depth sensor,1,68.00,68.00,Blue Robotics,PRESSURE-SENSOR-BAR30,±0.01m accuracy,Joyce
+Sensors,I2C Level Converter,Bidirectional level shifter,1,3.00,3.00,SparkFun,BOB-12009,For 5V sensors,Chang
+Sensors,NEO-6M GPS Module,GPS receiver with antenna,1,15.00,15.00,Amazon,B01D1D0F5M,UART interface,Joyce
+Sensors,Turbidity Sensor V1.0,Analog water turbidity sensor,1,10.00,10.00,DFRobot,SEN0189,Optional,Joyce
+Sensors,pH Sensor Kit,Analog pH sensor with probe,1,60.00,60.00,Atlas Scientific,ENV-40-pH,Optional,Joyce
+Actuation,N52 Neodymium Magnets,10mm x 3mm disc magnets,8,1.50,12.00,Amazon,B07KVFNB63,Magnetic actuation option,Shareef
+Actuation,Compression Springs,Stainless steel return springs,4,1.25,5.00,McMaster-Carr,9657K117,For chamber lids,Shareef
+Actuation,Hall Effect Sensors,Magnetic field detectors,2,1.00,2.00,SparkFun,SEN-09312,Actuation confirmation,Shareef
+Actuation,Waterproof Servo Motors,Corrosion-resistant servos,2,20.00,40.00,Amazon,B08ZYNCCQV,Servo actuation option,Shareef
+Power,LiPo Battery 3.7V 2000mAh,Rechargeable lithium battery,1,15.00,15.00,Adafruit,328,Main power supply,Victoria
+Power,TP4056 Charger Module,Li-ion battery charging module,1,2.00,2.00,Amazon,B07YLSKR93,Battery management,Victoria
+Power,LDO Voltage Regulator 3.3V,Low dropout regulator,1,3.00,3.00,Pololu,2842,Sensor power supply,Chang
+Enclosure,Waterproof Case,Polycarbonate IP67 case,1,25.00,25.00,Amazon,B08SQZRXMF,Main enclosure,Shareef
+Enclosure,O-Rings Assortment,Nitrile rubber O-rings,10,1.00,10.00,McMaster-Carr,1171N31,Waterproof sealing,Shareef
+Enclosure,Silicone Sealant,Marine-grade sealant,1,8.00,8.00,Amazon,B000BQRBO4,Additional waterproofing,Shareef
+Enclosure,Cable Glands PG7,Waterproof cable entries,4,3.00,12.00,Amazon,B07QGBMTNW,Sensor cable routing,Shareef
+Electronics,Jumper Wires,Male-male & male-female,40,0.10,4.00,Amazon,B08HZ26ZLF,Prototyping,Chang
+Electronics,Half-Size Breadboard,Solderless breadboard,1,4.00,4.00,Amazon,B082KBF7MM,Prototyping,Chang
+Electronics,Resistors 4.7kΩ,1/4W through-hole resistors,10,0.10,1.00,Digikey,4.7KQBK-ND,I2C pull-ups,Chang
+Electronics,Capacitors 470µF,Electrolytic capacitors 16V,5,0.50,2.50,Digikey,P10312-ND,Power filtering,Chang
+Electronics,Heat Shrink Tubing,Assorted sizes,1,8.00,8.00,Amazon,B084GDLSCK,Wire insulation,Chang
+Mechanical,3D Printing Filament PLA,1kg spool white PLA,1,20.00,20.00,Hatchbox,B00J0GMMP6,Chamber prototypes,Shareef
+Mechanical,M3 Screw Assortment,Stainless steel screws,1,12.00,12.00,Amazon,B07CYNKLT2,Assembly hardware,Shareef
+Tools,Soldering Kit,Soldering iron + solder,1,25.00,25.00,Amazon,B06XZ31W3M,Assembly,Chang
+Tools,Multimeter,Digital multimeter,1,20.00,20.00,Amazon,B01ISAMUA6,Testing,All
+,,,,Total Core Components,358.50,,,
+,,,,Total with Optional Sensors,428.50,,,
