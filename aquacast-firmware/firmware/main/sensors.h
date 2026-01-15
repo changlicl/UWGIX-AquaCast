@@ -8,7 +8,6 @@
  * - Analog turbidity sensor
  * - Analog pH sensor (optional)
  * 
- * @author Victoria Yang (Firmware), Joyce Chou (Hardware Integration)
  * @date 2025-01-14
  * @version 0.1.0
  */
